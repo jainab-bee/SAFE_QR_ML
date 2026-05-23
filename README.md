@@ -147,7 +147,3 @@ You can customize the detection behavior by editing `config.py`:
 - See `requirements.txt` for all dependencies
 
 ---
-
-## License
-
-MIT License. Feel free to use, modify, and distribute.
