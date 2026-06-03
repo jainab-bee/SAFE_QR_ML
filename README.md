@@ -1,5 +1,7 @@
 # 🛡️ SafeQR — QR Code Safety Scanner
 
+🚀 Live Demo: https://safe-qr-ml-by-jainab.streamlit.app/
+
 A Streamlit web app that scans QR code images and detects whether they lead to safe or phishing/malicious URLs. It combines rule-based URL analysis with a trained machine learning model for accurate threat detection.
 
 ---
